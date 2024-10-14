@@ -5,9 +5,17 @@ I'm a software developer with hands-on experience in frontend and backend develo
 I'm always looking for ways to improve my technical skills and love learning new technologies and how they can be utillzed.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riley-okeefe) 
+###
 
-# 💻 Tech Stack:
+<div align="left">
+  <a href="https://www.linkedin.com/in/riley-okeefe/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -58,7 +66,7 @@ I'm always looking for ways to improve my technical skills and love learning new
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ###
 
 <div align="center">
